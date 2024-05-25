@@ -1,4 +1,4 @@
-# Grad Ball Receipt Automator (Printed Version)
+# Grad Ball Receipt Automator (Digital Version)
 
 This version is for the DIGITAL version, where one receipt is in one page. This is meant to be integrated with another script that automatically splits the document into pages and EMAILS it automatically.
 
